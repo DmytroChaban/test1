@@ -38,7 +38,5 @@ for(let i = 1;i<3;i++) {
      personalMovieDB.movies[lastFilm] = rating;
 };
 
-    
-   
 
 console.log(personalMovieDB);
